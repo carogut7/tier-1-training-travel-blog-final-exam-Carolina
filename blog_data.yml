@@ -1,0 +1,36 @@
+
+owner: "Carolina"
+is_active: true
+creation_date: 2025-08-12
+social_links: 
+  - Instagram: "caro"
+  - YouTube: "caro"
+  - Facebook: "caro"
+popular_posts: 
+  title: "Hola"
+  views: 36484
+  tags: 
+      - sun
+      - night
+      - beach
+  comments: 12453
+  title: "Bye"
+  views: 36484
+  tags: 
+      - sun
+      - night
+      - beach
+  comments: 14263
+news_later_subscribers: 34579
+about: "Hola, Hola"
+featured_destination: 
+  - name: mexico
+  - country: MX
+  - best_season: spring
+  - rating: 5
+contact_email: "cgu@gmail.com"
+partner_links:
+  - link1: "https://paris.com/""
+  - link2: "https://en.wikipedia.org/wiki/French_language"
+last_update: "2025-08-11"
+    
